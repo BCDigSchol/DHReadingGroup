@@ -1,6 +1,6 @@
 # Spring 2018
 
-For the [Spring 2018 iteration of the Digital Humanities Reading Group](https://ds.bc.edu/spring-2018-digital-humanities-reading-group), we will read selections from the 2016 edition of *Debates in the Digital Humanities*. Participation is limited to 10 people, each of whom will receive a copy of the text.
+For the [Spring 2018 iteration](https://ds.bc.edu/spring-2018-digital-humanities-reading-group), we will read selections from the 2016 edition of *Debates in the Digital Humanities*. Participation is limited to 10 people, each of whom will receive a copy of the text.
 
 All sessions will take place from 11:00–noon in O’Neill Library, room 413.
 
