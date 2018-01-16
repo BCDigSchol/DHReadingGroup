@@ -7,4 +7,4 @@ By registering to participate, you agree to:
 - Attend at least 5 of the 6 sessions
 - Co-lead discussion for one of these sessions
 
-View the syllabus for the [Spring 2018](spring-2018) reading group.
+View the syllabus for the [Spring 2018](2018-spring.md) reading group.
