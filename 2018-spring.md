@@ -44,6 +44,6 @@ Facilitated by Rod Williams & Margaret Schatkin
 
 ## Collaborative Annotation & Notetaking
 
-As you read, we invite you to highlight passages of interest and add questions or comments to each week's texts using [Hypothes.is]. You can create annotations within our private Hypothes.is group called [BC DH Reading Group 2018](https://hypothes.is/groups/YiMwd97m/bc-dh-reading-group-2018). For more on using Hypothes.is visit their [Tutorials and How-Tos](https://hypothesis.zendesk.com/hc/en-us/sections/206682487-Tutorials-and-How-Tos).
+As you read, we invite you to highlight passages of interest and add questions or comments to each week's texts using [Hypothes.is]. Create annotations within our private Hypothes.is group, [BC DH Reading Group 2018](https://hypothes.is/groups/YiMwd97m/bc-dh-reading-group-2018). For more on using Hypothes.is visit their [Tutorials and How-Tos](https://hypothesis.zendesk.com/hc/en-us/sections/206682487-Tutorials-and-How-Tos).
 
 During our in-person gatherings, we invite you to contribute to our [shared notes](https://docs.google.com/document/d/1m4Gj5ON9577vIuB7OkRmKycwV2PpTZQ5MIifU11jPxE/edit?usp=sharing) in Google Docs.
