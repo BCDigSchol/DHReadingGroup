@@ -30,13 +30,13 @@ Facilitated by Rachel Young & Ben Bertrand
 - [Navigating the Global Digital Humanities: Insights from Black Feminism](http://dhdebates.gc.cuny.edu/debates/text/80)
 - [Between Knowledge and Metaknowledge: Shifting Disciplinary Borders in Digital Humanities and Library and Information Studies](http://dhdebates.gc.cuny.edu/debates/text/81)
 
-### March 13: Critics
+### March 27: Critics
 Facilitated by John Wargo & Tim Lindgren
 - [How Not to Teach Digital Humanities](http://dhdebates.gc.cuny.edu/debates/text/87)
 - [Dropping the Digital](http://dhdebates.gc.cuny.edu/debates/text/88)
 - [Hold on Loosely, or Gemeinschaft and Gesellschaft on the Web](http://dhdebates.gc.cuny.edu/debates/text/92)
 
-### March 27: Text Analysis at Scale
+### April 10: Text Analysis at Scale
 Facilitated by Rod Williams
 - [Introduction](http://dhdebates.gc.cuny.edu/debates/text/93)
 - [Humane Computation](http://dhdebates.gc.cuny.edu/debates/text/94)
