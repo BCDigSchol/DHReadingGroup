@@ -37,7 +37,7 @@ Facilitated by John Wargo & Tim Lindgren
 - [Hold on Loosely, or Gemeinschaft and Gesellschaft on the Web](http://dhdebates.gc.cuny.edu/debates/text/92)
 
 ### March 27: Text Analysis at Scale
-Facilitated by Rod Williams & Margaret Schatkin
+Facilitated by Rod Williams
 - [Introduction](http://dhdebates.gc.cuny.edu/debates/text/93)
 - [Humane Computation](http://dhdebates.gc.cuny.edu/debates/text/94)
 - [Do Digital Humanists Need to Understand Algorithms?](http://dhdebates.gc.cuny.edu/debates/text/99)
